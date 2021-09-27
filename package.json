@@ -1,0 +1,26 @@
+{
+  "name": "gas-shopping-cart-in-vanilla-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "run app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel-Odero/gas-shopping-cart-in-javascript.git"
+  },
+  "keywords": [
+    "vanilla",
+    "shopping",
+    "cart",
+    "shopping",
+    "cart"
+  ],
+  "author": "Emmanuel Odero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmanuel-Odero/gas-shopping-cart-in-javascript/issues"
+  },
+  "homepage": "https://github.com/Emmanuel-Odero/gas-shopping-cart-in-javascript#readme"
+}

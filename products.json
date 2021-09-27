@@ -4,57 +4,57 @@
             "id": 1,
             "title": "The Original Super Donut",
             "price": 135,
-            "image": "./images/product-1.jpg"
+            "image": "./gas-images/lakegas.jpg"
         },
         {
             "id": 2,
             "title": "The Original Super Donut",
             "price": 950,
-            "image": "./images/product-2.jpg"
+            "image": "./gas-images/afri-gas.png"
         },
         {
             "id": 3,
             "title": "The Original Super Donut",
             "price": 750,
-            "image": "./images/product-3.jpg"
+            "image": "./gas-images/mid-gas.png"
         },
         {
             "id": 4,
             "title": "The Original Super Donut",
             "price": 999,
-            "image": "./images/product-4.jpg"
+            "image": "./gas-images/progas.png"
         },
         {
             "id": 5,
             "title": "The Original Super Donut",
             "price": 250,
-            "image": "./images/product-5.jpg"
+            "image": "./gas-images/shell-gas.png"
 
         },
         {
             "id": 6,
             "title": "The Original Super Donut",
             "price": 850,
-            "image": "./images/product-6.jpg"
+            "image": "./gas-images/homee-gas.png"
 
         },
         {
             "id": 7,
             "title": "The Original Super Donut",
             "price": 600,
-            "image": "./images/product-7.jpg"
+            "image": "./gas-images/camping-gas.png"
         },
         {
             "id": 8,
             "title": "The Original Super Donut",
             "price": 350,
-            "image": "./images/product-8.jpg"
+            "image": "./gas-images/calor-gas.png"
         },
         {
             "id": 9,
             "title": "The Original Super Donut",
             "price": 799,
-            "image": "./images/product-8.jpg"
+            "image": "./gas-images/safe_gas_cylinder.png"
         },
         {
             "id": 10,
